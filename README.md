@@ -1,2 +1,2 @@
 # first_attempts
-# My learning curve in glaring view.
+My learning curve in glaring view.
